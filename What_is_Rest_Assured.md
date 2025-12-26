@@ -1,3 +1,5 @@
+Practice : https://dummy.restapiexample.com/
+
 Rest Assured oru Java library or Java API RESTful web services ah test pandrathukku use pandrom
 
 XML & JSON rendumey nama test panalam
