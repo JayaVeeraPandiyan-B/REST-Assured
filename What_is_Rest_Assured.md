@@ -1,5 +1,7 @@
 Practice : https://dummy.restapiexample.com/
 
+API - Application Programming Interface
+
 Rest Assured oru Java library or Java API RESTful web services ah test pandrathukku use pandrom
 
 XML & JSON rendumey nama test panalam
@@ -9,3 +11,13 @@ Supports POST, GET, PUT, DELETE, OPTIONS, PATCH, HEAD and more..
 JUnit, TestNG intha framworks kooda integrate panni nama test panikalam
 
 Naama Groovy kuda integrate panikalam
+
+Frontend la enna language la venalum irukatum and Backend enna language la venalum irukatum, backend oda connect pandra Frontend official ah orukalam illa 3rd partie
+vendor ah kooda irukalam puriyiramaari convert panni data/information va transfer pandrathutha API vela, beacuse API vanthu language independent it can convert any
+language
+
+Frontend la irunthu API ku request pogum pothu HTTP request ah tha pogum because all the Web services follow W3C protocol, again Frontend ku HTTP ah tha response varum
+athu XML or JSON format la varum, ithu rendumey entha language naaliyum pharse(Convert/Change) panna mudiyum.
+
+Athu technical ah Frontend - Backend nu solla matanga, Frontend(Client) and Server(Backend) nu solluvanga
+
